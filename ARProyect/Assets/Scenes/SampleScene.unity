@@ -450,7 +450,7 @@ Transform:
   m_GameObject: {fileID: 1031184240}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: -0.387, z: 1}
-  m_LocalScale: {x: 2048, y: 2048, z: 2048}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 40919615}
   m_Father: {fileID: 802442351}
@@ -545,8 +545,8 @@ MonoBehaviour:
   mDataSetPath: Vuforia/Imagenes.xml
   mAspectRatio: 1
   mImageTargetType: 0
-  mWidth: 2048
-  mHeight: 2048
+  mWidth: 1
+  mHeight: 1
 --- !u!21 &1601396738
 Material:
   serializedVersion: 6
@@ -569,7 +569,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: fe621847a8fa4559a1bcc278f28012e0, type: 3}
+        m_Texture: {fileID: 2800000, guid: 14573e511de5489f897c2ca8782395d8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
