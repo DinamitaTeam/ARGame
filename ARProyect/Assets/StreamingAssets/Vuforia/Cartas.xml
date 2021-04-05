@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="Carta_Agua" size="0.150000 0.212216" />
-    <ImageTarget name="Coca_Carta" size="0.150000 0.212216" />
+    <ImageTarget name="Carta_Toreadas" size="0.150000 0.228529" />
+    <ImageTarget name="Carta_Takis" size="0.150000 0.228529" />
+    <ImageTarget name="Carta_Sprite" size="0.150000 0.228529" />
+    <ImageTarget name="Carta_Mordisco" size="0.150000 0.228529" />
+    <ImageTarget name="Carta_Jamaicano" size="0.150000 0.228529" />
+    <ImageTarget name="Carta_Crnch" size="0.150000 0.228529" />
+    <ImageTarget name="Carta_Coca" size="0.150000 0.228529" />
+    <ImageTarget name="Carta_CHips" size="0.150000 0.228529" />
+    <ImageTarget name="Carta_Agua" size="0.150000 0.228529" />
   </Tracking>
 </QCARConfig>
