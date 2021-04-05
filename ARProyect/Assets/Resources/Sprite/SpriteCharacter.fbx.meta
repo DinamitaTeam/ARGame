@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b26f55a5436843640b4d1b6f0fc27679
+guid: fb332ed3f4c39934680275614c79374a
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -8,12 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MAT_Coca
-    second: {fileID: 2100000, guid: f09e196d8221fd9498efdbeac818b2d2, type: 2}
+    second: {fileID: 2100000, guid: a67d008aa90259c47a632329f9ba3389, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MAT_CocaCharacter
-    second: {fileID: 2100000, guid: f09e196d8221fd9498efdbeac818b2d2, type: 2}
+    second: {fileID: 2100000, guid: a67d008aa90259c47a632329f9ba3389, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
